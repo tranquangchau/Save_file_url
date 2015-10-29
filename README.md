@@ -6,7 +6,7 @@ file action
 - activity_main.xml (layout)
 - MainActivity.java
 
-Folder download 
+Folder download sav
 - sdcard
 - - a1 (folder)
 - - - chuong_1 (folder)
